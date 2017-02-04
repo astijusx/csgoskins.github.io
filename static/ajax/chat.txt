@@ -1,0 +1,777 @@
+<div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">OH GOD</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i><img style='background:none;' id=smile src=/styles/images/chat/rip.png></i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">FUCK</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">:(</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">i have nothing left</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ ****One.com</a></div>
+            <div class="msg-text">yes</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7d6dfbb159c01be41dd65a9659d129c5b743ce3e_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198176724118/" target="_blank">✪ White Nigga ✪</a></div>
+            <div class="msg-text">nice work fag</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">FUUUUUUUUUUUUUCK</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">!voteban AimZ rigging pots</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ ****One.com</a></div>
+            <div class="msg-text">xD</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7d6dfbb159c01be41dd65a9659d129c5b743ce3e_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198176724118/" target="_blank">✪ White Nigga ✪</a></div>
+            <div class="msg-text">WOW.. LEARN TO LOSE</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7d6dfbb159c01be41dd65a9659d129c5b743ce3e_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198176724118/" target="_blank">✪ White Nigga ✪</a></div>
+            <div class="msg-text">קקי</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">:(</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i><img style='background:none;' id=smile src=/styles/images/chat/rip.png></i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">reported x10000000000000000</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">my last skins</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">faaaaaak</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ ****One.com</a></div>
+            <div class="msg-text">i won them all m8</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">YAy no snipe this time</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ ****One.com</a></div>
+            <div class="msg-text">of course  not</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">YAY</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7d6dfbb159c01be41dd65a9659d129c5b743ce3e_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198176724118/" target="_blank">✪ White Nigga ✪</a></div>
+            <div class="msg-text">random you got this</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ ****One.com</a></div>
+            <div class="msg-text">dayyyum</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>it doesnt matter, oh no <img style='background:none;' id=smile src=/styles/images/chat/rip.png> my 30cents</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">L:L</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">XD</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7d6dfbb159c01be41dd65a9659d129c5b743ce3e_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198176724118/" target="_blank">✪ White Nigga ✪</a></div>
+            <div class="msg-text">             </div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7d6dfbb159c01be41dd65a9659d129c5b743ce3e_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198176724118/" target="_blank">✪ White Nigga ✪</a></div>
+            <div class="msg-text">  </div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7d6dfbb159c01be41dd65a9659d129c5b743ce3e_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198176724118/" target="_blank">✪ White Nigga ✪</a></div>
+            <div class="msg-text">   </div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7d6dfbb159c01be41dd65a9659d129c5b743ce3e_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198176724118/" target="_blank">✪ White Nigga ✪</a></div>
+            <div class="msg-text">    </div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7d6dfbb159c01be41dd65a9659d129c5b743ce3e_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198176724118/" target="_blank">✪ White Nigga ✪</a></div>
+            <div class="msg-text">     </div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7d6dfbb159c01be41dd65a9659d129c5b743ce3e_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198176724118/" target="_blank">✪ White Nigga ✪</a></div>
+            <div class="msg-text">      </div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7d6dfbb159c01be41dd65a9659d129c5b743ce3e_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198176724118/" target="_blank">✪ White Nigga ✪</a></div>
+            <div class="msg-text">       </div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7d6dfbb159c01be41dd65a9659d129c5b743ce3e_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198176724118/" target="_blank">✪ White Nigga ✪</a></div>
+            <div class="msg-text">            </div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>ill ban you if you keep doing that</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>*3</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7d6dfbb159c01be41dd65a9659d129c5b743ce3e_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198176724118/" target="_blank">✪ White Nigga ✪</a></div>
+            <div class="msg-text">me?</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">i think so</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>yes you</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">damn</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">ez</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">:(</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text"><img style='background:none;' id=smile src=/styles/images/chat/rip.png></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">cant accept trade offer wtf</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>Maybe steam glitching?</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>Cago status is unstable tho</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">maybe but would i get my stuff back if i decline offer?</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>wait i think i knoq qhy</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">why?</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>wait here</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>try now</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">okayu</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">the bot has his stuff</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>Yeah i know</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">still wont work</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">cant teh bot resend?</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>Send me the screenshot of items to my steam</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>ill send em again</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">okay</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">sending on steam</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">got my items</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>Cool</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">steam</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>invited 250 people to vulcan jackpot</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>xD</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>Great</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">damn</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>:D</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">powah??</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i><img style='background:none;' id=smile src=/styles/images/chat/dank.png></i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">gnome</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">fak</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text"><img style='background:none;' id=smile src=/styles/images/chat/rip.png></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>memes mate</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">yeah</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text"><img style='background:none;' id=smile src=/styles/images/chat/rip.png></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i><img style='background:none;' id=smile src=/styles/images/chat/cena.png></i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>wtf</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>my winnings are unavailable?</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/91/914c850ec8384e2e2e016be53bb1db0c3edd87ba_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198210738848/" target="_blank">OrTheKiller</a></div>
+            <div class="msg-text">50 50 ...</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>Scammed <img style='background:none;' id=smile src=/styles/images/chat/kappa.png></i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/91/914c850ec8384e2e2e016be53bb1db0c3edd87ba_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198210738848/" target="_blank">OrTheKiller</a></div>
+            <div class="msg-text">50 % both</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i><img style='background:none;' id=smile src=/styles/images/chat/kappa.png></i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">ez xD</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">accept my friend</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">me?</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">duk chiken</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">lmao</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>wow</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>taking your skins</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i><img style='background:none;' id=smile src=/styles/images/chat/dew.png></i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">y :(</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">gunna lose</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">xD</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>"lose"</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">xD i hate myself</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>1v1 aimz</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>go with 1 case.</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">2 late :(</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>or not</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">didnt see message :(</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">hope u win</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">noooo</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>WTF</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>LATE? I DIDNT GO IN WTF?</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">hahaha</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>THAT WAS MEANT TO GO IN EARLIER WTF LIKE 2 POTS</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>OMG WTF</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7d6dfbb159c01be41dd65a9659d129c5b743ce3e_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198176724118/" target="_blank">✪ White Nigga ✪</a></div>
+            <div class="msg-text">xD\</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7d6dfbb159c01be41dd65a9659d129c5b743ce3e_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198176724118/" target="_blank">✪ White Nigga ✪</a></div>
+            <div class="msg-text">xD</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>wow.</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">hahaha</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>****ing good</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">pure luck</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i><img style='background:none;' id=smile src=/styles/images/chat/rip.png> all my skisn</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i><img style='background:none;' id=smile src=/styles/images/chat/rip.png> all my skisn</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>skins</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">u want a couple cases</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>all in</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>idc now</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7d6dfbb159c01be41dd65a9659d129c5b743ce3e_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198176724118/" target="_blank">✪ White Nigga ✪</a></div>
+            <div class="msg-text">lol</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">dont wanna sniep</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>HAHHAHHH</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">waht</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>I JUST GOT BACK FROM MY SHIT</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7d6dfbb159c01be41dd65a9659d129c5b743ce3e_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198176724118/" target="_blank">✪ White Nigga ✪</a></div>
+            <div class="msg-text">..</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">fml</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>lol <img style='background:none;' id=smile src=/styles/images/chat/rip.png></i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text"><img style='background:none;' id=smile src=/styles/images/chat/rip.png></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">AimZ thats what u get</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">no one is going in kkkkkkkk</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>The snipe scared em away</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>holy good that was unfertunatr</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">im still here</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">i want an opponent</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">anybody</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">**????</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">**</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">why is slash not alowwed</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">:*</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">WWW</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">WWW</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>Dont spam</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">im sorry</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">i try to say something once but it says it more times</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>Lag </i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/91/914c850ec8384e2e2e016be53bb1db0c3edd87ba_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198210738848/" target="_blank">OrTheKiller</a></div>
+            <div class="msg-text">hey*?</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>The site died after that snipe lol</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">fuuuck gunna lose agian</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>guess whos back</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">who?</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">wait how have i won $10?</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">every win was a dollar?</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">its a 1v0</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">And the winner is</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">Me</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>wait what*</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text"><img style='background:none;' id=smile src=/styles/images/chat/rip.png> u den</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>why .26?</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>i didnt put the ump in?</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>wtf..</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">ima win</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">XD</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">a************************************w</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">so damn close</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">:(</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">somebody go in</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">hello</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">im so going to win if no snipe happens</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">Quack</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">yay</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3f/3f03b4e3c149a13a3c4bd79cbcaccc2d90652f72_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Mafioso</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>Yo guys</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">hekki my friend</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">hello</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/35/3536c963fd2478e97ee1bb949827a1fc7c660b99_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/UntamedFPS/" target="_blank"><font color=#fff><b>UntamedFPS</b></font><a href="twitch.tv/UntamedFPS"><i style="font: 14px &quot;FontAwesome&quot;; position: inherit; color: rgb(100, 65, 165); padding-left: 5px;" class="fa-twitch"></i></a></a></div>
+            <div class="msg-text">ayyy</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a8/a8ac54577cb20277fde0d1085e29b3dce141053d_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/Evergamers/" target="_blank">Rañdom Raspbërry</a></div>
+            <div class="msg-text">your a streamer?</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c798259866022f3f14b0a765be46fcefb34ef569_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/OfficialTJSnook/" target="_blank"><font color=#fff><b>TJSnook</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #cc883c; border-radius: 5px; border: 1px #cc883c solid;">MOD</span></a></div>
+            <div class="msg-text"><font color="#cc883c"><i>anyone here</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Raid</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>nope</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3f/3f03b4e3c149a13a3c4bd79cbcaccc2d90652f72_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Mafioso</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>Yep</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">Hi</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">any1 here?</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">damnit</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">hey?</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3f/3f03b4e3c149a13a3c4bd79cbcaccc2d90652f72_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Mafioso</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i><img style='background:none;' id=smile src=/styles/images/chat/kappa.png></i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/50/5013faf02e60b3fc7801abb19e7a19c64cf1f131_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198070025712/" target="_blank">WildGamingBrosDK</a></div>
+            <div class="msg-text">hey</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/50/5013faf02e60b3fc7801abb19e7a19c64cf1f131_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198070025712/" target="_blank">WildGamingBrosDK</a></div>
+            <div class="msg-text">hellloo</div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3f/3f03b4e3c149a13a3c4bd79cbcaccc2d90652f72_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Mafioso</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>"its a scam' <img style='background:none;' id=smile src=/styles/images/chat/kappa.png></i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3f/3f03b4e3c149a13a3c4bd79cbcaccc2d90652f72_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Mafioso</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>Its 100% working.deposit a case and see</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3f/3f03b4e3c149a13a3c4bd79cbcaccc2d90652f72_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Mafioso</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>hmm</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3f/3f03b4e3c149a13a3c4bd79cbcaccc2d90652f72_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Mafioso</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>wait</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3f/3f03b4e3c149a13a3c4bd79cbcaccc2d90652f72_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Mafioso</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>i forgot to start the databas</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3f/3f03b4e3c149a13a3c4bd79cbcaccc2d90652f72_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Mafioso</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>started</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3f/3f03b4e3c149a13a3c4bd79cbcaccc2d90652f72_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank"><font color=#fff><b>Mafioso</b></font><span style="position: inherit; font: 14px; color: #fff; margin-left: 5px; background: #D2303D; border-radius: 5px; border: 1px #D2303D solid;">ADMIN</span></a></div>
+            <div class="msg-text"><font color="#D2303D"><i>ad me on steam bro</i></font></div>
+</div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/75/7584c579888fcfebed98563a56123a6d47c1f816_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/AimZGameZ/" target="_blank">AimZGameZ I csgosnaffy.com</a></div>
+            <div class="msg-text">hey</div>
+</div>

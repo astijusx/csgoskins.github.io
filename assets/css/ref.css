@@ -1,0 +1,217 @@
+﻿.ref {
+	padding: 10px 10px;
+	overflow: hidden;
+}
+.cupon {
+	font-weight:normal;
+	font-size:17px;
+	text-align: center;
+	border: 1px solid #517668;
+	border-radius: 10px;
+	    float: center;
+		overflow:hidden;
+
+  float: left;
+	display:inline-block;
+	color: white;
+}
+
+.ref_balance2 {
+    background-color: #273B4A;
+    border: 1px solid #1f2027;
+    height: 70px;
+    line-height: 23px;
+    padding: 12px 10px;
+    color: #FFF;
+    transition: 0.2s;
+    width: 200px;
+    font-size: 15px;
+    text-align: center;
+    text-transform: uppercase;
+	float: left;
+	
+	
+}
+.coupon_bar {
+    text-align: center;
+    background-color: #273B4A;
+    margin-top: 20px;
+    padding: 20px;
+    font-size: 23px;
+    color: #fff;
+    cursor: text;
+	margin-bottom: 20px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+.coupon_form {
+    overflow: hidden;
+}
+.coupon_form_get {
+    overflow: hidden;
+}
+.coupon_form button {
+    vertical-align: middle;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    background: rgba(79, 192, 113, 0.27);
+    border: 1px solid #498877;
+    color: #F1F1F1;
+    text-align: center;
+    padding: 5px 0px 2px;
+    font-size: 12px;
+    width: 182px;
+    margin-top: 0px;
+    outline: none;
+}
+
+.coupon_form input {
+    background-color: #273B4A;
+    border: 1px solid #314657;
+    height: 33px;
+    line-height: 33px;
+    padding: 0px 0px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    color: #c2c3c7;
+    outline: 0;
+    transition: 0.2s;
+    display: list-item;
+    width: 180px;
+    font-size: 15px;
+    text-align: center;
+}
+.other-title {
+	background: #334856;
+	line-height: 41px; 
+	text-align: center;
+}
+
+.btn-add-balance2 {
+	margin-left: 4px;
+	position: relative;
+	height: 30px;
+	line-height: 30px;
+	vertical-align: middle;
+	display: inline-block;
+	font-size: 12px;
+	font-weight: 400;
+	letter-spacing: 0.2px;
+	text-decoration: none;
+	text-transform: uppercase;
+	cursor: pointer;
+	background: #31A26D;
+	border: 1;
+    border-radius: 50px
+	color: #31A26D;
+	text-align: center;
+}
+.btn-add-balance2:hover,
+.btn-add-balance2:focus,
+.btn-add-balance2:active {
+	background: #e00078;
+}
+	
+.coupon_post {
+	  background-color: #121317;
+    border: 1px solid #1f2027;
+    height: 30px;
+    line-height: 23px;
+    color: #FFF;
+    transition: 0.2s;
+    width: 200px;
+    font-size: 15px;
+    text-align: center;
+    text-transform: uppercase;
+	float: left;
+	
+}
+.coupon_form_get button {
+    vertical-align: middle;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    background: rgba(79, 192, 113, 0.27);
+    border: 1px solid #498877;
+    color: #F1F1F1;
+    text-align: center;
+    padding: 5px 0px 2px;
+    font-size: 12px;
+    width: 182px;
+    margin-top: 0px;
+    outline: none;
+}
+
+.coupon_form_get input {
+    background-color: #1F2D38;
+    border: 1px solid #314657;
+    height: 33px;
+    line-height: 33px;
+    padding: 0px 0px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    color: #c2c3c7;
+    outline: 0;
+    transition: 0.2s;
+    display: list-item;
+    width: 180px;
+    font-size: 15px;
+    text-align: center;
+}
+
+
+.table {
+width: 100%;
+margin-top: 10px;
+position: relative;
+float: left;
+}
+.list {
+white-space: nowrap;	
+margin-bottom: 5px;  
+ border: 0 none;
+ line-height: 45px;
+ text-align: center; 
+ overflow: hidden; 
+ position: relative;
+ background: #1D2123;
+ color: #c14d4d!important;
+  border-radius: 10px;
+  color: rgba(29,33,35,0.1);
+  
+ }
+
+.balans {
+	font-weight:normal;
+	font-size:17px;
+	margin-top: 50px;
+}
+.pribilj {
+	font-weight:normal;
+	font-size:17px;
+	margin-top: 50px;
+}
+.people_count {
+	font-weight:normal;
+	font-size:17px;
+	margin-top: 50px;
+}
+.btn-add-balance {
+	
+}
+
+.title_info {
+	text-align: center;
+	background: #5cb85c;
+    text-align: center;
+    padding: 15px;
+	margin-top: 200px;
+    font-size: 16px;
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.15);
+}

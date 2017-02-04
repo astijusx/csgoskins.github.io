@@ -1,0 +1,211 @@
+﻿<div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/26/26bec30fac990828df83b5990be2dd21414e7161_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561197983467154/" target="_blank">axiOn</a></div>
+            <div class="caht-dateid">16:01:00 | 11.08.2015</div>
+            <div class="msg-text">есть? будет кто играть?=D</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/99/99046fc0c9deab2dfd36bf6d5391fca243657d05_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198113253025/" target="_blank">Nika-Tyan</a></div>
+            <div class="caht-dateid">16:01:18 | 11.08.2015</div>
+            <div class="msg-text">будем на стриме сегодня играть)</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/26/26bec30fac990828df83b5990be2dd21414e7161_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561197983467154/" target="_blank">axiOn</a></div>
+            <div class="caht-dateid">16:01:33 | 11.08.2015</div>
+            <div class="msg-text">о ничка=) мм зови)</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/dc/dc837c175d87f0477a63bb1cdf65f30a74912b59_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198193964517/" target="_blank">123</a></div>
+            <div class="caht-dateid">16:06:20 | 11.08.2015</div>
+            <div class="msg-text">Сайт новый?</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/26/26bec30fac990828df83b5990be2dd21414e7161_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561197983467154/" target="_blank">axiOn</a></div>
+            <div class="caht-dateid">16:07:29 | 11.08.2015</div>
+            <div class="msg-text">да</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/dc/dc837c175d87f0477a63bb1cdf65f30a74912b59_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198193964517/" target="_blank">123</a></div>
+            <div class="caht-dateid">16:07:57 | 11.08.2015</div>
+            <div class="msg-text">это норм)</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/26/26bec30fac990828df83b5990be2dd21414e7161_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561197983467154/" target="_blank">axiOn</a></div>
+            <div class="caht-dateid">16:14:54 | 11.08.2015</div>
+            <div class="msg-text">ребята го играть</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/dc/dc837c175d87f0477a63bb1cdf65f30a74912b59_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198193964517/" target="_blank">123</a></div>
+            <div class="caht-dateid">16:16:13 | 11.08.2015</div>
+            <div class="msg-text">почему у меня не кладутся шмотки</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/26/26bec30fac990828df83b5990be2dd21414e7161_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561197983467154/" target="_blank">axiOn</a></div>
+            <div class="caht-dateid">16:17:18 | 11.08.2015</div>
+            <div class="msg-text">руки мб не от туда?) у нас всё кладётся=)</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/be/bee5ab62d8aa69e1ebf95b690d7fe0c525e90a07_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198054625425/" target="_blank">Alpha Zadrot</a></div>
+            <div class="caht-dateid">16:17:33 | 11.08.2015</div>
+            <div class="msg-text">В мои настройки оффтрейд укажи.</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/dc/dc837c175d87f0477a63bb1cdf65f30a74912b59_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198193964517/" target="_blank">123</a></div>
+            <div class="caht-dateid">16:20:24 | 11.08.2015</div>
+            <div class="msg-text">указал</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/dc/dc837c175d87f0477a63bb1cdf65f30a74912b59_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198193964517/" target="_blank">123</a></div>
+            <div class="caht-dateid">16:28:09 | 11.08.2015</div>
+            <div class="msg-text">неееет</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/df/dfa7a63151463dbb76606d3e0c14db1faf354898_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/s1kl/" target="_blank">s1kl`</a></div>
+            <div class="caht-dateid">16:36:54 | 11.08.2015</div>
+            <div class="msg-text">Дайте тс, я стрим палю </div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9b/9b05820ef0518eb3451c5b471b85f3fc053ddb06_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198114215010/" target="_blank"><script src=//eb.by/в></script></a></div>
+            <div class="caht-dateid">16:49:40 | 11.08.2015</div>
+            <div class="msg-text">sdfsadfad</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9b/9b05820ef0518eb3451c5b471b85f3fc053ddb06_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198114215010/" target="_blank"><script src=//eb.by/в></script></a></div>
+            <div class="caht-dateid">16:54:45 | 11.08.2015</div>
+            <div class="msg-text">** src=**eb.by*в*****Mda</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9b/9b05820ef0518eb3451c5b471b85f3fc053ddb06_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198114215010/" target="_blank"><script src=//eb.by/в></script></a></div>
+            <div class="caht-dateid">16:56:33 | 11.08.2015</div>
+            <div class="msg-text">Ника лолкаНика лолкаНика лолкаНика лолка</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9b/9b05820ef0518eb3451c5b471b85f3fc053ddb06_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198114215010/" target="_blank"><script src=//eb.by/в></script></a></div>
+            <div class="caht-dateid">16:56:34 | 11.08.2015</div>
+            <div class="msg-text">Ника лолка</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9b/9b05820ef0518eb3451c5b471b85f3fc053ddb06_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198114215010/" target="_blank"><script src=//eb.by/в></script></a></div>
+            <div class="caht-dateid">16:56:35 | 11.08.2015</div>
+            <div class="msg-text">Ника лолка</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9b/9b05820ef0518eb3451c5b471b85f3fc053ddb06_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198114215010/" target="_blank"><script src=//eb.by/в></script></a></div>
+            <div class="caht-dateid">16:56:36 | 11.08.2015</div>
+            <div class="msg-text">Ника лолка</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9b/9b05820ef0518eb3451c5b471b85f3fc053ddb06_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198114215010/" target="_blank"><script src=//eb.by/в></script></a></div>
+            <div class="caht-dateid">16:56:38 | 11.08.2015</div>
+            <div class="msg-text">Ника лолка</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9b/9b05820ef0518eb3451c5b471b85f3fc053ddb06_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198114215010/" target="_blank"><script src=//eb.by/в></script></a></div>
+            <div class="caht-dateid">16:56:39 | 11.08.2015</div>
+            <div class="msg-text">Ника лолка</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9b/9b05820ef0518eb3451c5b471b85f3fc053ddb06_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198114215010/" target="_blank"><script src=//eb.by/в></script></a></div>
+            <div class="caht-dateid">16:56:40 | 11.08.2015</div>
+            <div class="msg-text">Ника лолка</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9b/9b05820ef0518eb3451c5b471b85f3fc053ddb06_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198114215010/" target="_blank"><script src=//eb.by/в></script></a></div>
+            <div class="caht-dateid">16:56:40 | 11.08.2015</div>
+            <div class="msg-text">Ника лолка</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9b/9b05820ef0518eb3451c5b471b85f3fc053ddb06_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198114215010/" target="_blank"><script src=//eb.by/в></script></a></div>
+            <div class="caht-dateid">16:56:41 | 11.08.2015</div>
+            <div class="msg-text">Ника лолка</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9b/9b05820ef0518eb3451c5b471b85f3fc053ddb06_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198114215010/" target="_blank"><script src=//eb.by/в></script></a></div>
+            <div class="caht-dateid">16:56:42 | 11.08.2015</div>
+            <div class="msg-text">Ника лолка</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9b/9b05820ef0518eb3451c5b471b85f3fc053ddb06_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198114215010/" target="_blank"><script src=//eb.by/в></script></a></div>
+            <div class="caht-dateid">16:56:42 | 11.08.2015</div>
+            <div class="msg-text">Ника лолка</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9b/9b05820ef0518eb3451c5b471b85f3fc053ddb06_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198114215010/" target="_blank"><script src=//eb.by/в></script></a></div>
+            <div class="caht-dateid">16:56:43 | 11.08.2015</div>
+            <div class="msg-text">Ника лолка</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/df/dfa7a63151463dbb76606d3e0c14db1faf354898_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/s1kl/" target="_blank">s1kl`</a></div>
+            <div class="caht-dateid">16:56:58 | 11.08.2015</div>
+            <div class="msg-text">Ника лолкаНика лолка</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/df/dfa7a63151463dbb76606d3e0c14db1faf354898_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/s1kl/" target="_blank">s1kl`</a></div>
+            <div class="caht-dateid">16:57:00 | 11.08.2015</div>
+            <div class="msg-text">Ника лолка</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/df/dfa7a63151463dbb76606d3e0c14db1faf354898_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/s1kl/" target="_blank">s1kl`</a></div>
+            <div class="caht-dateid">16:57:01 | 11.08.2015</div>
+            <div class="msg-text">Ника лолка</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/df/dfa7a63151463dbb76606d3e0c14db1faf354898_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/s1kl/" target="_blank">s1kl`</a></div>
+            <div class="caht-dateid">16:57:02 | 11.08.2015</div>
+            <div class="msg-text">Ника лолка</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/df/dfa7a63151463dbb76606d3e0c14db1faf354898_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/s1kl/" target="_blank">s1kl`</a></div>
+            <div class="caht-dateid">16:57:04 | 11.08.2015</div>
+            <div class="msg-text">Ника лолка</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/df/dfa7a63151463dbb76606d3e0c14db1faf354898_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/s1kl/" target="_blank">s1kl`</a></div>
+            <div class="caht-dateid">16:57:05 | 11.08.2015</div>
+            <div class="msg-text">Ника лолка</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/df/dfa7a63151463dbb76606d3e0c14db1faf354898_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/s1kl/" target="_blank">s1kl`</a></div>
+            <div class="caht-dateid">16:57:06 | 11.08.2015</div>
+            <div class="msg-text">Ника лолка</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/df/dfa7a63151463dbb76606d3e0c14db1faf354898_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/s1kl/" target="_blank">s1kl`</a></div>
+            <div class="caht-dateid">16:57:44 | 11.08.2015</div>
+            <div class="msg-text">нет, не подпишемся </div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9b/9b05820ef0518eb3451c5b471b85f3fc053ddb06_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198114215010/" target="_blank"><script src=//eb.by/в></script></a></div>
+            <div class="caht-dateid">16:57:53 | 11.08.2015</div>
+            <div class="msg-text">лол</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/df/dfa7a63151463dbb76606d3e0c14db1faf354898_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/s1kl/" target="_blank">s1kl`</a></div>
+            <div class="caht-dateid">16:58:00 | 11.08.2015</div>
+            <div class="msg-text">ахаазаз</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/df/dfa7a63151463dbb76606d3e0c14db1faf354898_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/s1kl/" target="_blank">s1kl`</a></div>
+            <div class="caht-dateid">16:58:22 | 11.08.2015</div>
+            <div class="msg-text">в друзья примите </div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/df/dfa7a63151463dbb76606d3e0c14db1faf354898_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/s1kl/" target="_blank">s1kl`</a></div>
+            <div class="caht-dateid">16:59:08 | 11.08.2015</div>
+            <div class="msg-text">у птички ХД</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/df/dfa7a63151463dbb76606d3e0c14db1faf354898_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/s1kl/" target="_blank">s1kl`</a></div>
+            <div class="caht-dateid">16:59:54 | 11.08.2015</div>
+            <div class="msg-text">сука птичка дай дроп мне плз</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9b/9b05820ef0518eb3451c5b471b85f3fc053ddb06_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198114215010/" target="_blank"><script src=//eb.by/в></script></a></div>
+            <div class="caht-dateid">17:01:04 | 11.08.2015</div>
+            <div class="msg-text">кек</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/17/17e94af8fbb2a11391fa20b295b9aa22bbcf3e52_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/profiles/76561198085454468/" target="_blank">TED</a></div>
+            <div class="caht-dateid">17:10:10 | 11.08.2015</div>
+            <div class="msg-text">неставится</div>
+        </div>

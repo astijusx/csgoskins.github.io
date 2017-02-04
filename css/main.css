@@ -1,0 +1,366 @@
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+/* Let's get this party started */
+
+#header {
+    background: #1D2226;
+	border-bottom:2px RGB(2, 99, 156) solid ;
+    width: 100%;
+    height: 90px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0 0 0 30px;
+	position:relative;
+}
+    #mainHeader {
+        width: calc(100% - 300px);
+        float: left;
+    }
+        #logo {
+            display: block;
+            float: left;
+            height: 90px;
+            margin-right: 50px;
+        }
+            #logo img {
+                display: block;
+                margin-top: 22px;
+            }
+        #nav {
+            float: left;
+            height: 90px;
+            line-height: 90px;
+        }
+            #nav a {
+                text-decoration: none;
+                text-transform: uppercase;
+                text-align: center;
+                font-weight: 700;
+                color: #c1c1c1;
+				font-size:13.4px;
+                margin: 0 10px;
+            }
+                #nav a.active, #nav a:hover {
+                    color: #293036;
+                }
+				
+		#mobNavToggle {
+			position:absolute;
+			top:20px;
+			right:30px;
+			width:50px;
+			height:50px;
+			background:url("../images/navIcon.png") no-repeat center right;
+			display:none;
+		}
+    #userPanel {
+        width: 300px;
+        height: 90px;
+        float: right;
+        -webkit-box-shadow: -4px 0px 20px -14px rgba(0,0,0,0.7);
+        -moz-box-shadow: -4px 0px 20px -14px rgba(0,0,0,0.7);
+        box-shadow: -4px 0px 20px -14px rgba(0,0,0,0.7);
+    }
+		#steamLogIn {
+			float:right;
+			margin:23px 30px 0 0;
+		}
+        #userPanel img {
+            width: 50px;
+            float: left;
+            margin: 20px 10px 0 20px;
+				-webkit-border-radius: 50%;
+				-moz-border-radius: 50%;
+				border-radius: 50%;
+        }
+        #userPanel .username {
+            font-weight: bold;
+            font-size: 14px;
+            color: RGB(2, 99, 156);
+            text-decoration: none;
+            display: inline-block;
+            float: left;
+            width: calc(100% - 90px);
+            margin-top: 30px;
+        }
+        #userPanel .logout {
+            color: #c1c1c1;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 10px;
+            font-weight: 700;
+        }
+		#sidr-id-userPanel {
+			width:100%;
+		}
+			#sidr-right {
+				background: #000;
+			}
+			#sidr-id-userPanel img {
+				width:50px;
+				float:left;
+				-webkit-border-radius: 50%;
+				-moz-border-radius: 50%;
+				border-radius: 50%;
+				margin:10px 0 0 15px;
+			}
+			#sidr-id-userPanel a {
+				padding:0;
+				margin:0;
+				float:none;
+			}
+			.sidr-class-username {
+				font-weight:700;
+			}
+			.sidr-class-UserPanelInfo {
+				float:right;
+				width:calc(100% - 80px);
+				margin:0;
+				margin-top:15px;
+			}
+			.sidr-inner a {
+				display:block;
+				width:100%;
+				float:left;
+				margin-top:20px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+	padding-left:20px;
+	text-transform:uppercase;
+			}
+
+  main {
+    flex: 1 0 auto;
+  }
+     #snowflakeContainer {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.snowflake {
+    padding-left: 15px;
+    font-family: Cambria, Georgia, serif;
+    font-size: 14px;
+    line-height: 24px;
+    position: fixed;
+    color: #FFFFFF;
+    user-select: none;
+    z-index: 1000;
+}
+.snowflake:hover {
+    cursor: default;
+}
+    .wheel {
+      width:100%;
+      z-index: 0;
+      display:block;
+    }
+    .chat {
+      overflow: auto;
+      background-color: #293036;
+      padding: 0.3em;
+    }
+    #chat {
+      height: 42em;
+    }
+    .chat-image {
+      border: 2px solid white;
+      border-radius: 8px;
+      vertical-align: middle;
+    }
+    .chat-link:hover {
+      text-decoration: underline;
+    }
+    .brown {
+      background-color: #795548;
+    }
+    #chatToggle {
+      position: absolute;
+      display: block;
+      margin-top: 15%;
+      left: 24.125%;
+      transition: none;
+      transition: box-shadow 300ms ease;
+    }
+    #chat-col {
+      position:absolute;
+      width:25%;
+    }
+    #chat-toggle-icon{
+      font-size: 40px;
+      transform: rotate(-90deg);
+      transition: transform 500ms ease-out;
+    }
+    .logo {
+      height: 50px;
+      margin-top: 6px;
+    }
+    #past-rolls {
+      position: relative;
+      display: inline-block;
+      padding: none;
+      overflow: hidden;
+      white-space: nowrap;
+      font-size: 0;
+      width:100%;
+    }
+    .shadow {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      /*box-shadow: inset 0px 1px 30px -2px rgba(0,0,0,0.75);*/
+      top: 0;
+      left: 0;
+      z-index: 200;
+    }
+    .past-roll {
+      font-family: "Arial Black";
+      width: 10%;
+      height: 100%;
+      text-align: center;
+      vertical-align: middle;
+      display: inline-block;
+      position: relative;
+      margin: 0;
+      padding: 0;
+      border-right: 1px solid lightgrey;
+      border-left: 1px solid lightgrey;
+      z-index: 5;
+      left: 0.5px;
+    }
+    .ctxMenu {
+      position: absolute;
+      width: 5%;
+      background-color: white;
+      color:black;
+      border: 2px solid lightgrey;
+      border-radius: 5px;
+    }
+    .ctxMenu li:hover{
+      background-color: lightblue;
+    }
+    .determinate {
+      transition: all 0s linear !important;
+    }
+    .free-coins-card {
+      position: fixed;
+      top: -100%;
+      width: 40%;
+      z-index: 100000;
+      left: 0;
+      right: 0;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    #coin-flip-cont {
+      width: 256px;
+      height: 256px;
+      position: relative;
+      left: calc(50% - 128px);
+      perspective:300px;
+    }
+
+    #coin {
+      position: relative;
+      width: 256px;
+      transform-style: preserve-3d;
+      transform-origin: 50% 50%;
+    }
+
+    #coin .front, #coin .back {
+      position: absolute;
+      width: 256px;
+      height: 256px;
+    }
+
+    #coin .front {
+      transform: translateZ(1px);
+      border-radius: 50%;
+      background-image: url('http://csgosnaffy.com/images/TIcon.png');
+      background-color: #B4A146;
+      background-size: contain;
+      box-shadow: inset 0px -65px 100px 0px rgba(0,0,0,0.75);
+    }
+
+    #coin .back {
+      transform: translateZ(-1px) rotateY(180deg);
+      border-radius: 50%;
+      background-image: url('http://csgosnaffy.com/images/CTIcon.png');
+      background-color: #5B7B94;
+      background-size: contain;
+      box-shadow: inset 0px -65px 100px 0px rgba(0,0,0,0.75);
+    }
+
+    .coin-shadow {
+      transform-origin: 50% 100%;
+      transform: rotateX(90deg) rotateZ(-35deg);
+      position: absolute;
+      width: calc(0.83915204428 * 256px);
+      height: 384px;
+      top: -128px;
+      left:0;
+      right:0;
+      margin-left:auto;
+      margin-right:auto;
+      border-radius: 50%;
+      background-color: rgb(30,30,30);
+      box-shadow: 0px -15px 15px 12px rgba(30,30,30,1);
+    }
+
+    .item-card {
+      margin-left: 1vw;
+      margin-top: 0;
+      margin-bottom: 0;
+      margin-right: 0;
+      right: -15%;
+      width: 10vw;
+      display: inline-block;
+      position: relative;
+      white-space: normal;
+    }
+
+    .mysterybox-spinner {
+      perspective: 0px;
+      transform: tranlateZ(0);
+      width:100%;
+      pointer-events: none;
+      border: 2px solid #f2f2f2;
+      overflow: hidden;
+      white-space: nowrap;
+    }
+
+    .mysterybox-spinner-overlay {
+      position: absolute;
+      z-index: 1;
+      top:2px;
+      left:2px;
+      height: calc(100% - 4px);
+      width: calc(100% - 4px);
+      background: linear-gradient(to right, rgba(0,0,0,0.75) 0%,rgba(0,0,0,0) 33%,rgba(0,0,0,0) 66%,rgba(0,0,0,0.75) 100%);
+      pointer-events: none;
+      display: block;
+    }
+
+    .mysterybox-selector {
+      position: relative;
+      left: 0;
+      right: 0;
+      margin-left: auto;
+      margin-right: auto;
+      width: 2px;
+      height: 100%;
+      background-color: #f2f2f2;
+    }
+
+    .rainbow {
+      background-image: -webkit-gradient( linear, left top, left bottom, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+    }
+	
+	    .admin-text {
+      color: red
+    }

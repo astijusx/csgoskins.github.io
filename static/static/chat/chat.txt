@@ -1,0 +1,77 @@
+<div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8c/8cbdd829f0ff8dea2a14fa2ffe948fd9f5e84024_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/GCGamingCraft/" target="_blank">FaZe Rain</a></div>
+            <div class="msg-text">Snipe</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8c/8cbdd829f0ff8dea2a14fa2ffe948fd9f5e84024_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/GCGamingCraft/" target="_blank">FaZe Rain</a></div>
+            <div class="msg-text">snipe</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8c/8cbdd829f0ff8dea2a14fa2ffe948fd9f5e84024_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/GCGamingCraft/" target="_blank">FaZe Rain</a></div>
+            <div class="msg-text">gg</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8c/8cbdd829f0ff8dea2a14fa2ffe948fd9f5e84024_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/GCGamingCraft/" target="_blank">FaZe Rain</a></div>
+            <div class="msg-text"><img style='background:none;' id=smile src=/styles/images/chat/bad.png></div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8c/8cbdd829f0ff8dea2a14fa2ffe948fd9f5e84024_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/GCGamingCraft/" target="_blank">FaZe Rain</a></div>
+            <div class="msg-text">lol</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8c/8cbdd829f0ff8dea2a14fa2ffe948fd9f5e84024_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/GCGamingCraft/" target="_blank">FaZe Rain</a></div>
+            <div class="msg-text">xd</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8c/8cbdd829f0ff8dea2a14fa2ffe948fd9f5e84024_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/GCGamingCraft/" target="_blank">FaZe Rain</a></div>
+            <div class="msg-text"><img style='background:none;' id=smile src=/styles/images/chat/kappa.png></div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/63/639f800bc3890c4c53ff3ef882aa946898714f8b_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/TitanTheGoon/" target="_blank">Titan</a></div>
+            <div class="msg-text">hi</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank">Raid csgosnaffy.com</a></div>
+            <div class="msg-text"><font color="#D2303D"><i>Hey</i></font></div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8c/8cbdd829f0ff8dea2a14fa2ffe948fd9f5e84024_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/GCGamingCraft/" target="_blank">FaZe Rain</a></div>
+            <div class="msg-text">sup</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="http://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10626ff9c3b8557d458ff0180e1aefd2940d90cc_medium.jpg" width="30px"></div>
+            <div class="caht-name"><a href="http://steamcommunity.com/id/montenegrino/" target="_blank">Raid csgosnaffy.com</a></div>
+            <div class="msg-text"><font color="#D2303D"><i>I think im done with the site</i></font></div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="" width="30px"></div>
+            <div class="caht-name"><a href="" target="_blank"></a></div>
+            <div class="msg-text">stfu</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="" width="30px"></div>
+            <div class="caht-name"><a href="" target="_blank"></a></div>
+            <div class="msg-text">stfu</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="" width="30px"></div>
+            <div class="caht-name"><a href="" target="_blank"></a></div>
+            <div class="msg-text">djdjjdjdjdjjdjd</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="" width="30px"></div>
+            <div class="caht-name"><a href="" target="_blank"></a></div>
+            <div class="msg-text">fek off m8</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="" width="30px"></div>
+            <div class="caht-name"><a href="" target="_blank"></a></div>
+            <div class="msg-text"><img style='background:none;' id=smile src=/styles/images/chat/D83CDFB2.png></div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="" width="30px"></div>
+            <div class="caht-name"><a href="" target="_blank"></a></div>
+            <div class="msg-text">sjjs</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="" width="30px"></div>
+            <div class="caht-name"><a href="" target="_blank"></a></div>
+            <div class="msg-text">dudjfj</div>
+        </div><div class="chat-msg">
+            <div class="caht-ava"><img src="" width="30px"></div>
+            <div class="caht-name"><a href="" target="_blank"></a></div>
+            <div class="msg-text">ffs</div>
+        </div>
